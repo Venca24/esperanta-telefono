@@ -34,4 +34,5 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 
 | Nomo | Tradukejo | Permesilo | Esperantigita |
 | ----------- | ----------- | ----------- | ----------- |
+| [Barcode Scanner](https://f-droid.org/packages/com.atharok.barcodescanner/) | [Weblate](https://hosted.weblate.org/projects/barcodescanner/) | GNU GPL | jes |
 | [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) | [Weblate](https://hosted.weblate.org/projects/newpipe/) | GNU GPL | jes |
