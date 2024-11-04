@@ -8,6 +8,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | ----------- | ----------- | ----------- |
 | LineageOS AOS | [Crowdin](https://crowdin.com/project/lineageos-aosp/eo) | ne |
 | LineageOS | [Crowdin](https://crowdin.com/project/lineageos/eo) | ne |
+| CalyxOS | [Weblate](https://hosted.weblate.org/projects/calyxos/) | ne |
 
 ## Bazaj aplikaĵoj
 
