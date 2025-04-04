@@ -14,7 +14,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 
 | Nomo | Tradukejo | Permesilo | Esperantigita |
 | ----------- | ----------- | ----------- | ----------- |
-| [Fossify Calculator](https://f-droid.org/packages/org.fossify.calculator/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
+| [Fossify Calculator](https://f-droid.org/packages/org.fossify.math/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Calendar](https://f-droid.org/packages/org.fossify.calendar/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Camera](https://f-droid.org/packages/org.fossify.camera/)| [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Clock](https://f-droid.org/packages/org.fossify.clock/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
