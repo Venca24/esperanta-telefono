@@ -44,3 +44,4 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | [Praktika Vortaro](https://f-droid.org/packages/com.esperantajvortaroj.app/) | – | GNU GPL | jes |
 | [PReVo](https://f-droid.org/packages/uk.co.busydoingnothing.prevo/) | – | GNU GPL | jes |
 | [StreetComplete](https://f-droid.org/cs/packages/de.westnordost.streetcomplete/) | [poeditor](https://poeditor.com/join/project/IE4GC127Ki) | GNU GPL | jes |
+| [WiFiAnalyzer](https://f-droid.org/packages/com.vrem.wifianalyzer/) | [Weblate](https://hosted.weblate.org/projects/wifianalyzer/) | GNU GPL | ne |
