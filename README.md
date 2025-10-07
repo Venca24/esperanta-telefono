@@ -36,6 +36,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | Nomo | Tradukejo | Permesilo | Esperantigita |
 | ----------- | ----------- | ----------- | ----------- |
 | [Barcode Scanner](https://f-droid.org/packages/com.atharok.barcodescanner/) | [Weblate](https://hosted.weblate.org/projects/barcodescanner/) | GNU GPL | jes |
+| [Food You](https://f-droid.org/packages/com.maksimowiczm.foodyou/) | [Crowdin](https://crowdin.com/project/food-you) | GNU GPL | ne |
 | [LibreSudoku](https://f-droid.org/packages/com.kaajjo.libresudoku/) | [Weblate](https://hosted.weblate.org/projects/libresudoku/) | GNU GPL | ne |
 | [LibreTube](https://f-droid.org/packages/com.github.libretube/) | [Weblate](https://hosted.weblate.org/projects/libretube/libretube/) | GNU GPL | ne |
 | [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) | [Weblate](https://hosted.weblate.org/projects/newpipe/) | GNU GPL | jes |
