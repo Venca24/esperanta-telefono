@@ -45,3 +45,6 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | [PReVo](https://f-droid.org/packages/uk.co.busydoingnothing.prevo/) | – | GNU GPL | jes |
 | [StreetComplete](https://f-droid.org/cs/packages/de.westnordost.streetcomplete/) | [poeditor](https://poeditor.com/join/project/IE4GC127Ki) | GNU GPL | jes |
 | [WiFiAnalyzer](https://f-droid.org/packages/com.vrem.wifianalyzer/) | [Weblate](https://hosted.weblate.org/projects/wifianalyzer/) | GNU GPL | ne |
+
+## Keep Android Open
+En 2025 Google anoncis, ke ekde 2026 ĝi iom-post-iome malpermesos flanke instali (sideload) aplikaĵojn krom se la programistoj devige registriĝos ĉe ĝi. Tio [endanĝerigas](https://f-droid.org/cs/2025/10/28/sideloading.html) vere tutmondajn deponejojn de aplikaĵoj kiel estas [F-Droid](https://f-droid.org/). Tial komencis iniciato [Keep Android Open](https://keepandroidopen.org/), kiu strebas konservi eblon de flanka instalo daŭre.
