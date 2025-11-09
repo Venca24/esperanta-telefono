@@ -25,7 +25,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | [Fossify Gallery](https://f-droid.org/packages/org.fossify.gallery/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Keyboard](https://f-droid.org/packages/org.fossify.keyboard/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Launcher](https://f-droid.org/packages/org.fossify.home/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Messenger](https://f-droid.org/packages/org.fossify.messages/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
+| [Fossify Messages](https://f-droid.org/packages/org.fossify.messages/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Music Player](https://f-droid.org/packages/org.fossify.musicplayer/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Notes](https://f-droid.org/packages/org.fossify.notes/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Paint](https://f-droid.org/packages/org.fossify.paint/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
