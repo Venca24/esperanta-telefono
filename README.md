@@ -28,6 +28,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | [Fossify Messenger](https://f-droid.org/packages/org.fossify.messages/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Music Player](https://f-droid.org/packages/org.fossify.musicplayer/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Notes](https://f-droid.org/packages/org.fossify.notes/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
+| [Fossify Paint](https://f-droid.org/packages/org.fossify.paint/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Phone](https://f-droid.org/packages/org.fossify.phone/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 | [Fossify Voice Recorder](https://f-droid.org/packages/org.fossify.voicerecorder/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
 
