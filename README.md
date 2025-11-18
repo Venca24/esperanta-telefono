@@ -14,23 +14,25 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 
 | Nomo | Tradukejo | Permesilo | Esperantigita |
 | ----------- | ----------- | ----------- | ----------- |
-| [Fossify Calculator](https://f-droid.org/packages/org.fossify.math/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Calendar](https://f-droid.org/packages/org.fossify.calendar/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Camera](https://f-droid.org/packages/org.fossify.camera/)| [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Clock](https://f-droid.org/packages/org.fossify.clock/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Contacts](https://f-droid.org/packages/org.fossify.contacts/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| Fossify Draw | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify File Manager](https://f-droid.org/packages/org.fossify.filemanager/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| Fossify Flashlight | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Gallery](https://f-droid.org/packages/org.fossify.gallery/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Keyboard](https://f-droid.org/packages/org.fossify.keyboard/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Launcher](https://f-droid.org/packages/org.fossify.home/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Messages](https://f-droid.org/packages/org.fossify.messages/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Music Player](https://f-droid.org/packages/org.fossify.musicplayer/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Notes](https://f-droid.org/packages/org.fossify.notes/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Paint](https://f-droid.org/packages/org.fossify.paint/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Phone](https://f-droid.org/packages/org.fossify.phone/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
-| [Fossify Voice Recorder](https://f-droid.org/packages/org.fossify.voicerecorder/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | ne |
+| [Fossify Calculator](https://f-droid.org/packages/org.fossify.math/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Calendar](https://f-droid.org/packages/org.fossify.calendar/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Camera](https://f-droid.org/packages/org.fossify.camera/)| [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Clock](https://f-droid.org/packages/org.fossify.clock/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Contacts](https://f-droid.org/packages/org.fossify.contacts/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| Fossify Draw | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify File Manager](https://f-droid.org/packages/org.fossify.filemanager/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| Fossify Flashlight | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Gallery](https://f-droid.org/packages/org.fossify.gallery/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Keyboard](https://f-droid.org/packages/org.fossify.keyboard/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Launcher](https://f-droid.org/packages/org.fossify.home/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Messages](https://f-droid.org/packages/org.fossify.messages/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Music Player](https://f-droid.org/packages/org.fossify.musicplayer/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Notes](https://f-droid.org/packages/org.fossify.notes/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Paint](https://f-droid.org/packages/org.fossify.paint/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Phone](https://f-droid.org/packages/org.fossify.phone/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+| [Fossify Voice Recorder](https://f-droid.org/packages/org.fossify.voicerecorder/) | [Weblate](https://hosted.weblate.org/projects/fossify/) | GNU GPL | jes[^1] / ne |
+
+[^1]: En Android 16 kaj pli novaj.
 
 ## Aliaj aplikaĵoj
 
