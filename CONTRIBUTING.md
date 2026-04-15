@@ -12,5 +12,9 @@ La celo de tiu ĉi deponejo estas esti listo de liberaj Androidaj aplikaĵoj, ki
 * Se la de-vi-proponata programo ne estas ankoraŭ sur la listo kaj ĝi plenumas kondiĉojn por esti tie, bv. rekte krei [tirpeton](https://github.com/Venca24/esperanta-telefono/pulls) (_pull request_) aŭ skribu la proponon al [problemoj](https://github.com/Venca24/esperanta-telefono/issues) (_issues_).
 * Se la aplikaĵo ebligas elekti Esperanton kiel lingvo nur sur certaj versioj de Androidaj operaciumoj, bv. skribi ankaŭ ekde kiu versio eblas elekti Esperanton kaj aldonu ekrankopiojn, kiuj montras, ke la aplikaĵo funkcias en Esperanto.
 
+## Reguloj pri AI
+
+Tiu ĉi deponejo starigas regulojn pri uzo de AI en la dosiero [AGENTS.md](AGENTS.md). Antaŭ uzi ilojn bazitajn je lingvomodeloj (vaste konataj kiel AI), unue legu tiun ĉi dosieron. Tiu ĉi projekto devas esti farata por homoj fare de homoj kaj AI-iloj ne rajtas rekte kontribui al ĝi.
+
 ---
 Tiu ĉi projekto estas plene libertempa, neprofitcela kaj nepagata.
