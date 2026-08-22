@@ -38,12 +38,14 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 
 | Nomo | Tradukejo | Permesilo | Esperantigita |
 | ----------- | ----------- | ----------- | ----------- |
+| [AnkiDroid: Flashcards](https://f-droid.org/packages/com.ichi2.anki/) | [Crowdin](http://crowdin.net/project/ankidroid) | GNU AGPL | jes |
 | [Barcode Scanner](https://f-droid.org/packages/com.atharok.barcodescanner/) | [Weblate](https://hosted.weblate.org/projects/barcodescanner/) | GNU GPL | jes |
 | [Food You](https://f-droid.org/packages/com.maksimowiczm.foodyou/) | [Crowdin](https://crowdin.com/project/food-you) | GNU GPL | ne |
 | [LibreSudoku](https://f-droid.org/packages/com.kaajjo.libresudoku/) | [Weblate](https://hosted.weblate.org/projects/libresudoku/) | GNU GPL | ne |
 | [LibreTube](https://f-droid.org/packages/com.github.libretube/) | [Weblate](https://hosted.weblate.org/projects/libretube/libretube/) | GNU GPL | ne |
 | [Li-ri](https://f-droid.org/packages/org.liri.liri/) | en fontokodo | GNU GPL | jes |
 | [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) | [Weblate](https://hosted.weblate.org/projects/newpipe/) | GNU GPL | jes |
+| [Nunti](https://f-droid.org/packages/com.nunti/) | [GitLab](https://gitlab.com/ondrejfoltyn/nunti/-/blob/master/Nunti/src/Locale.ts) | GNU GPL | ne |
 | [PipePipe](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/) | [Forgejo](https://codeberg.org/NullPointerException/PipePipeClient/src/branch/dev) | GNU GPL | jes |
 | [Praktika Vortaro](https://f-droid.org/packages/com.esperantajvortaroj.app/) | – | GNU GPL | jes |
 | [PReVo](https://f-droid.org/packages/uk.co.busydoingnothing.prevo/) | – | GNU GPL | jes |
