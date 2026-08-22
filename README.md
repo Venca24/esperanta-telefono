@@ -40,20 +40,20 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | ----------- | ----------- | ----------- | ----------- |
 | [AnkiDroid: Flashcards](https://f-droid.org/packages/com.ichi2.anki/) | [Crowdin](http://crowdin.net/project/ankidroid) | GNU AGPL | jes |
 | [Barcode Scanner](https://f-droid.org/packages/com.atharok.barcodescanner/) | [Weblate](https://hosted.weblate.org/projects/barcodescanner/) | GNU GPL | jes |
-| [Food You](https://f-droid.org/packages/com.maksimowiczm.foodyou/) | [Crowdin](https://crowdin.com/project/food-you) | GNU GPL | ne |
-| [LibreSudoku](https://f-droid.org/packages/com.kaajjo.libresudoku/) | [Weblate](https://hosted.weblate.org/projects/libresudoku/) | GNU GPL | ne |
-| [LibreTube](https://f-droid.org/packages/com.github.libretube/) | [Weblate](https://hosted.weblate.org/projects/libretube/libretube/) | GNU GPL | ne |
+| [Food You](https://f-droid.org/packages/com.maksimowiczm.foodyou/) | [Crowdin](https://crowdin.com/project/food-you) | GNU GPL | ankoraŭ ne |
+| [LibreSudoku](https://f-droid.org/packages/com.kaajjo.libresudoku/) | [Weblate](https://hosted.weblate.org/projects/libresudoku/) | GNU GPL | ankoraŭ ne |
+| [LibreTube](https://f-droid.org/packages/com.github.libretube/) | [Weblate](https://hosted.weblate.org/projects/libretube/libretube/) | GNU GPL | ankoraŭ ne |
 | [Li-ri](https://f-droid.org/packages/org.liri.liri/) | en fontokodo | GNU GPL | jes |
 | [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) | [Weblate](https://hosted.weblate.org/projects/newpipe/) | GNU GPL | jes |
-| [Nunti](https://f-droid.org/packages/com.nunti/) | [GitLab](https://gitlab.com/ondrejfoltyn/nunti/-/blob/master/Nunti/src/Locale.ts) | GNU GPL | ne |
+| [Nunti](https://f-droid.org/packages/com.nunti/) | [GitLab](https://gitlab.com/ondrejfoltyn/nunti/-/blob/master/Nunti/src/Locale.ts) | GNU GPL | ankoraŭ ne |
 | [PipePipe](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/) | [Forgejo](https://codeberg.org/NullPointerException/PipePipeClient/src/branch/dev) | GNU GPL | jes |
 | [Praktika Vortaro](https://f-droid.org/packages/com.esperantajvortaroj.app/) | – | GNU GPL | jes |
 | [PReVo](https://f-droid.org/packages/uk.co.busydoingnothing.prevo/) | – | GNU GPL | jes |
 | [StreetComplete](https://f-droid.org/cs/packages/de.westnordost.streetcomplete/) | [poeditor](https://poeditor.com/join/project/IE4GC127Ki) | GNU GPL | jes |
-| [Tomato](https://f-droid.org/packages/org.nsh07.pomodoro/) | [Weblate](https://hosted.weblate.org/projects/tomato/) | GNU GPL | ne |
+| [Tomato](https://f-droid.org/packages/org.nsh07.pomodoro/) | [Weblate](https://hosted.weblate.org/projects/tomato/) | GNU GPL | ankoraŭ ne |
 | [Transportr](https://f-droid.org/packages/de.grobox.liberario/) | [Transifex](https://explore.transifex.com/grobox/transportr/) | GNU GPL | jes |
-| [WiFiAnalyzer](https://f-droid.org/packages/com.vrem.wifianalyzer/) | [Weblate](https://hosted.weblate.org/projects/wifianalyzer/) | GNU GPL | ne |
-| [WikiReader](https://f-droid.org/packages/org.nsh07.wikireader/) | [Weblate](https://hosted.weblate.org/projects/wikireader/) | GNU GPL | ne |
+| [WiFiAnalyzer](https://f-droid.org/packages/com.vrem.wifianalyzer/) | [Weblate](https://hosted.weblate.org/projects/wifianalyzer/) | GNU GPL | ankoraŭ ne |
+| [WikiReader](https://f-droid.org/packages/org.nsh07.wikireader/) | [Weblate](https://hosted.weblate.org/projects/wikireader/) | GNU GPL | ankoraŭ ne |
 
 ## Keep Android Open
 En 2025 Google anoncis, ke ekde 2026 ĝi iom-post-iome malpermesos flanke instali (sideload) aplikaĵojn krom se la programistoj devige registriĝos ĉe ĝi. Tio [endanĝerigas](https://f-droid.org/cs/2025/10/28/sideloading.html) vere tutmondajn deponejojn de aplikaĵoj kiel estas [F-Droid](https://f-droid.org/). Tial komencis iniciato [Keep Android Open](https://keepandroidopen.org/), kiu strebas konservi eblon de flanka instalo daŭre.
