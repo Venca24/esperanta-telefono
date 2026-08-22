@@ -43,7 +43,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | [Food You](https://f-droid.org/packages/com.maksimowiczm.foodyou/) | [Crowdin](https://crowdin.com/project/food-you) | GNU GPL | ankoraŭ ne |
 | [LibreSudoku](https://f-droid.org/packages/com.kaajjo.libresudoku/) | [Weblate](https://hosted.weblate.org/projects/libresudoku/) | GNU GPL | ankoraŭ ne |
 | [LibreTube](https://f-droid.org/packages/com.github.libretube/) | [Weblate](https://hosted.weblate.org/projects/libretube/libretube/) | GNU GPL | ankoraŭ ne |
-| [Li-ri](https://f-droid.org/packages/org.liri.liri/) | en fontokodo | GNU GPL | jes |
+| [Li-ri](https://f-droid.org/packages/org.liri.liri/) | [GitHub](https://github.com/petitlapin/Li-Ri/tree/main/data) | GNU GPL | jes |
 | [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) | [Weblate](https://hosted.weblate.org/projects/newpipe/) | GNU GPL | jes |
 | [Nunti](https://f-droid.org/packages/com.nunti/) | [GitLab](https://gitlab.com/ondrejfoltyn/nunti/-/blob/master/Nunti/src/Locale.ts) | GNU GPL | ankoraŭ ne |
 | [PipePipe](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/) | [Forgejo](https://codeberg.org/NullPointerException/PipePipeClient/src/branch/dev) | GNU GPL | jes |
