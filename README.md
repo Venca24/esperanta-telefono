@@ -38,6 +38,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 
 | Nomo | Tradukejo | Permesilo | Esperantigita |
 | ----------- | ----------- | ----------- | ----------- |
+| [AndBible](https://f-droid.org/packages/net.bible.android.activity/) | [Transifex](https://explore.transifex.com/mjdenham/andbible/) | GNU GPL | jes |
 | [AnkiDroid: Flashcards](https://f-droid.org/packages/com.ichi2.anki/) | [Crowdin](http://crowdin.net/project/ankidroid) | GNU AGPL | jes |
 | [Barcode Scanner](https://f-droid.org/packages/com.atharok.barcodescanner/) | [Weblate](https://hosted.weblate.org/projects/barcodescanner/) | GNU GPL | jes |
 | [Food You](https://f-droid.org/packages/com.maksimowiczm.foodyou/) | [Crowdin](https://crowdin.com/project/food-you) | GNU GPL | ankoraŭ ne |
