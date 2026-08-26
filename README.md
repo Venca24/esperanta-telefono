@@ -42,6 +42,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | [AnkiDroid: Flashcards](https://f-droid.org/packages/com.ichi2.anki/) | [Crowdin](http://crowdin.net/project/ankidroid) | GNU AGPL | jes |
 | [Barcode Scanner](https://f-droid.org/packages/com.atharok.barcodescanner/) | [Weblate](https://hosted.weblate.org/projects/barcodescanner/) | GNU GPL | jes |
 | [Food You](https://f-droid.org/packages/com.maksimowiczm.foodyou/) | [Crowdin](https://crowdin.com/project/food-you) | GNU GPL | ankoraŭ ne |
+| [GPSTest](https://f-droid.org/packages/com.android.gpstest.osmdroid/) | [Transifex](https://explore.transifex.com/sean-barbeau/gpstest-android/) | Apache | ankoraŭ ne |
 | [LibreSudoku](https://f-droid.org/packages/com.kaajjo.libresudoku/) | [Weblate](https://hosted.weblate.org/projects/libresudoku/) | GNU GPL | ankoraŭ ne |
 | [LibreTube](https://f-droid.org/packages/com.github.libretube/) | [Weblate](https://hosted.weblate.org/projects/libretube/libretube/) | GNU GPL | ankoraŭ ne |
 | [Li-ri](https://f-droid.org/packages/org.liri.liri/) | [GitHub](https://github.com/petitlapin/Li-Ri/tree/main/data) | GNU GPL | jes |
