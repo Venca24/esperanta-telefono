@@ -56,6 +56,7 @@ Tiu ĉi projekto listigas programojn, kiuj estas esperantaj aŭ esperantigeblaj 
 | [Transportr](https://f-droid.org/packages/de.grobox.liberario/) | [Transifex](https://explore.transifex.com/grobox/transportr/) | GNU GPL | jes |
 | [WiFiAnalyzer](https://f-droid.org/packages/com.vrem.wifianalyzer/) | [Weblate](https://hosted.weblate.org/projects/wifianalyzer/) | GNU GPL | ankoraŭ ne |
 | [WikiReader](https://f-droid.org/packages/org.nsh07.wikireader/) | [Weblate](https://hosted.weblate.org/projects/wikireader/) | GNU GPL | ankoraŭ ne |
+| [Wikisource Reader](https://f-droid.org/packages/org.cis_india.wsreader/) | [translatewiki.net](https://translatewiki.net/wiki/Translating:Wikisource_Reader) | Apache | ankoraŭ ne |
 
 ## Keep Android Open
 En 2025 Google anoncis, ke ekde 2026 ĝi iom-post-iome malpermesos flanke instali (sideload) aplikaĵojn krom se la programistoj devige registriĝos ĉe ĝi. Tio [endanĝerigas](https://f-droid.org/cs/2025/10/28/sideloading.html) vere tutmondajn deponejojn de aplikaĵoj kiel estas [F-Droid](https://f-droid.org/). Tial komencis iniciato [Keep Android Open](https://keepandroidopen.org/), kiu strebas konservi eblon de flanka instalo daŭre.
